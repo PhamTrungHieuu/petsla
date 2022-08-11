@@ -1,0 +1,77 @@
+/* @media only screen and ( max-width: 1400px){
+    .grid{
+        width: 90%;
+    }
+    .clum-4{
+        width: 24%;
+        height: 465px;
+        padding: 0.5% 0.5%;
+    }
+} */
+
+ @media only screen and (max-width: 1235px){
+    .grid{
+        width: 1000px;
+    }
+    .cuahang__item-mua-text{
+        font-size: 13px;
+    }
+    .cuahang__item-them-text{
+        font-size: 12px;
+    }
+}
+@media only screen and ( max-width: 1025px){
+    .app{
+        width: 100%;
+    }
+    .grid{
+        width: 800px;
+
+    }
+    .cuahang__item{
+        width: 100%;
+    }
+    .clum-4{
+        width: 32%;
+    }
+}
+
+@media only screen and ( max-width: 880px){
+    .header__thongtin-gmail, .header__thongtin-sdt, .header-cart , .header__list{
+        display: none;
+    }
+    .app{
+        width: 100%;
+    }
+    .grid{
+        width: 500px;
+
+    }
+    .cuahang__item{
+        width: 100%;
+    }
+    .clum-4{
+        width: 48%;
+    }
+    .header__thongtin-ngonngu{
+        margin-left: 100px ;
+    }
+    .header-logo{
+        width: 30%;
+    }
+    .header__timkiem{
+        width: 50%;
+    }
+    /* .header__timkiem-text{
+
+    } */
+    .header__timkiem-seach{
+        width: 30px;
+    }
+    .them{
+        display: flex;
+    }
+    /* .header-khung-timkiem{
+        flex-direction: column-reverse;
+    } */
+}

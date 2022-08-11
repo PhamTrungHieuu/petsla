@@ -1,0 +1,82 @@
+/* .cuahang__item{
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.clum-4{
+    width: 24%;
+    height: 465px;
+    padding: 0.5% 0.5%;
+}
+.cuahang__item-anh{
+    width: 100%;
+    height: 67%;
+}
+.cuahang__item-anh-img{
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+}
+.cuahang__item-mota{
+    background:  #ffffff;;
+    height: 30%;
+    padding: 2%;
+}
+.cuahang__item-thongtin-{
+    width: 100%;
+    height: 16px;
+    overflow: hidden;
+    display: block;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+}
+.cuahang__item-thongtin{
+    width: 100%;
+    font-size: 15px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.cuahang__item-gia{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    padding: 6 0px;
+}
+.cuahang__item-trangthai{
+    background-color:#464646;
+    margin-top: 7%;
+    height: 35%;
+    display:flex;
+    border-radius: 10px;
+}
+.cuahang__item-mua{
+    width: 49%;
+    padding: 10 13%;
+    border-radius: 10px;
+    margin: 1%;
+    
+}
+.cuahang__item-mua:hover{
+    background: #e69646;
+}
+.cuahang__item-mua-text{
+    font-size: 95%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #ffffff;
+}
+.cuahang__item-them{
+    margin: 1%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 59%;
+    padding: 10 10%;
+}
+.cuahang__item-them:hover{
+    background: #e69646;
+}
+.cuahang__item-them-text{
+    font-size: 95%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: black;
+} */
